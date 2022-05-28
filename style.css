@@ -1,0 +1,17 @@
+.first {
+    text-align: center;
+}
+
+.img1 {
+    margin-inline: 450px;
+}
+
+.id {
+    text-align: center;
+}
+
+.img2 {
+    display: inline-block;
+    margin-inline: 100px;
+    text-align: center;
+}
